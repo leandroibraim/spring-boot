@@ -1,6 +1,5 @@
 package com.ibraim.course.entities;
 
-<<<<<<< HEAD
 import java.io.Serializable;
 
 import javax.persistence.Entity;
@@ -96,9 +95,5 @@ public class User implements Serializable{
 			return false;
 		return true;
 	}
-	
-=======
-public class User {
->>>>>>> 658d5971ceeab1c8c955337b756f4368910fbfe7
 
 }
